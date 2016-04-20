@@ -6,9 +6,12 @@ https://github.com/lastaudit/lastAudit/releases/download/0.1/lastAudit.exe
 
 Automatic Windows security scannig tool. Fully portable without any additional dll requirements.</b>
 <span style="color:#0000ff;">
-For pentesters - shows security configuration errors and sensitive information stored on host.
-For home users - reveals what information can be accessed, stolen and used by malware authors.
+
+<br>
+For pentesters - shows security configuration errors and sensitive information stored on host.<br>
+For home users - reveals what information can be accessed, stolen and used by malware authors.<br>
 </span>
+
 Reporting features:
 - Wrong security configuration, permissions and vulnerabilities
 - Saved passwords
