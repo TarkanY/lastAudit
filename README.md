@@ -18,4 +18,4 @@ Reporting features:
 – WiFI audit
 – Simple LAN port scanning
 
-homepage: lastaudit.wordpress.com
+homepage: https://lastaudit.wordpress.com
