@@ -23,4 +23,4 @@ Reporting features:
 
 New features will be available soon.
 
-homepage: https://lastaudit.wordpress.com
+Homepage: https://lastaudit.wordpress.com
