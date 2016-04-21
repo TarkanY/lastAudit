@@ -21,6 +21,6 @@ Reporting features:
 - WiFI audit
 - Simple LAN port scanning
 
-New features and download will be available soon.
+New features will be available soon.
 
 homepage: https://lastaudit.wordpress.com
