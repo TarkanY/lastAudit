@@ -2,7 +2,7 @@
 Local Area Security Audit Tool
 
 Current version:
-https://github.com/lastaudit/lastAudit/releases/download/1.1/lastAudit.exe
+https://github.com/lastaudit/lastAudit/releases/download/1.2/lastAudit.exe
 
 Automatic Windows security scannig tool. Fully portable without any additional dll requirements.</b>
 <span style="color:#0000ff;">
