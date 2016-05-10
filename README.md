@@ -1,15 +1,17 @@
 # lastAudit
 lastAudit - Local Area Security Audit Tool<br>
-Portable Windows security and vulnerability scanner, IT audit and forensic tool.<br>
+Portable Windows security and vulnerability scanner, IT audit and forensic tool.
 <br>
 Current version:<br>
 https://github.com/lastaudit/lastAudit/releases/download/1.2/lastAudit.exe<br>
-<br>
-<br>
+
 For pentesters – shows security configuration errors and sensitive information stored on host.<br>
 For forensic investigators – reveals sensitive information.<br>
 For home users – reveals what information can be accessed, stolen and used by malware authors.<br>
 <br>
+<img src="https://raw.githubusercontent.com/lastaudit/lastaudit.github.io/master/screenshot.png">
+<br>
+
 Features:
 - Free
 - Standalone portable executable
