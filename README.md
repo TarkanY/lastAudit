@@ -6,7 +6,6 @@ Current version:<br>
 https://github.com/lastaudit/lastAudit/releases/download/1.2/lastAudit.exe<br>
 <br>
 
-
 <span style="color:#0000ff;">
 <br>
 For pentesters – shows security configuration errors and sensitive information stored on host.<br>
@@ -14,8 +13,6 @@ For forensic investigators – reveals sensitive information.<br>
 For home users – reveals what information can be accessed, stolen and used by malware authors.<br>
 </span>
 <br>
-
-
 Features:
 - Free
 - Portable executable
