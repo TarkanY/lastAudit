@@ -12,7 +12,7 @@ For home users – reveals what information can be accessed, stolen and used by 
 <br>
 Features:
 - Free
-- Portable executable
+- Standalone portable executable
 - Detects and lists:
      - wrong security configuration,
      - vulnerabilities,
