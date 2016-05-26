@@ -1,3 +1,16 @@
+VERSION 1.4 (2016-05-25)
+
+- Added detection of encrypted Office files
+- Added detection of encrypted Zip files
+- Added detection of mobile apps
+- Added listing of file extensions and associated apps
+- Improved LAN scanning module
+- Updated vulnerability database
+- Updated file searching module
+- Minor UI and report template changes
+
+----------------------------------------
+
 VERSION 1.3 (2016-05-18)
 
 - Added detection of encrypted containers
