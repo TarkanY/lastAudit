@@ -1,4 +1,4 @@
-VERSION 1.4 (2016-05-25)
+VERSION 1.4 (2016-05-26)
 
 - Added detection of encrypted Office files
 - Added detection of encrypted Zip files
