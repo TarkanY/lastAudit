@@ -9,7 +9,7 @@ For pentesters – shows security configuration errors and sensitive information
 For forensic investigators – reveals sensitive information.<br>
 For home users – reveals what information can be accessed, stolen and used by malware authors.<br>
 <br>
-<img src="https://raw.githubusercontent.com/lastaudit/lastaudit.github.io/master/screenshot1.5.png">
+<img src="https://raw.githubusercontent.com/lastaudit/lastaudit.github.io/master/screenshot15.png">
 <br>
 
 Features:
