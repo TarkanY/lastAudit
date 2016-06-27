@@ -1,3 +1,11 @@
+VERSION 1.52 (2016-06-27)
+- Added new CLI options
+- Updated vulnerability database
+- Improved geolocation module
+- Bug fixes
+
+----------------------------------------
+
 VERSION 1.51 (2016-06-20)
 - Added new CLI options
 - Updated vulnerability database
